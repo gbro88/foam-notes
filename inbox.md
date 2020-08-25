@@ -1,6 +1,6 @@
 # Inbox
 
-- Here you can write disorganised notes to be categorised later
+- Let's make try the foam is useful or not
 - Bullet points are useful, but it could be free form text as well
 - Sometimes it's better to just get things off your mind quickly, rather than stop to think where it belongs
 - But don't let this list get too long
